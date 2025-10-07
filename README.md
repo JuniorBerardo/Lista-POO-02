@@ -50,7 +50,7 @@ Para compilar e executar qualquer um dos exercícios, você precisará ter o **J
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Java**
+* **Java 21.0.7**
 
 ## 👨‍💻 Autor
 
